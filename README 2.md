@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 **Hello-Microverse**
-![screenshot](image/HelloMicroverse.png)
+
 Additional description about the project and its features.
 **Built With**
 - HTML
