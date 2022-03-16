@@ -1,14 +1,14 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-**Hello-Microverse**
+**Portfolio**
 
-Additional description about the project and its features.
+Portfolio website mobile version
+Home section
+![Screenshoot]("./images/screenshot%20of%20mobile%20version.png")
 **Built With**
 - HTML
 - CSS
 - VS Code
-**Prerequisites**
-You only need a browser
 **Authors**
 :silhouette:  **Shahnawaz Ali**
 - GitHub: [@githubhandle](https://github.com/shahnawaza75)
